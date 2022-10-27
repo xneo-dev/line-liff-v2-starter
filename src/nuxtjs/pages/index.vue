@@ -7,7 +7,7 @@
         >LIFF Starter!</a
       >
     </h1>
-    <div class="home__badges">
+    <div class="home__badges">ああああああああああああああああああああああああああああ
       <span class="home__badges__badge badge--primary"> LIFF Starter </span>
       <span class="home__badges__badge badge--secondary"> nuxtjs </span>
       <span class="home__badges__badge badge--primary"> {{ version }} </span>
